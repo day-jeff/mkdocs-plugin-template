@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 
 setup(
-    name='mkdocs-your-plugin',
+    name='mkdocs-flatten-subfolder',
     version='0.1.0',
     description='A MkDocs plugin',
     long_description='',
